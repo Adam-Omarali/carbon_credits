@@ -1,0 +1,4 @@
+node_modules
+.service_key.json
+.env
+raw_data
